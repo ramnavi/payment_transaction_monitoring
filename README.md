@@ -56,8 +56,10 @@ Git & GitHub – Version control
 ## 🗄️ Database
 The project uses PostgreSQL to store payment transaction data.
 
-## 🗄️ Database
-The project uses PostgreSQL to store payment transaction data.
+## Main Tables
+
+## Customers
+Stores customer information.
 customer_id
 name
 country
