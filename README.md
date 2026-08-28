@@ -60,3 +60,7 @@ A transaction is considered delayed when:
 
 ```sql
 NOW() - created_at >= INTERVAL '10 seconds'
+
+## 📸 Dashboard
+
+![Payment Transaction Monitoring Dashboard](screenshots/dashboard.png)
